@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # ユーザーのホームDirからテンプレート置き場用のDirまでのpathを用意
-XCODE_TEMPLATE_DIR=$HOME'/Library/Developer/Xcode/Templates/File Templates/Animal'
+XCODE_TEMPLATE_DIR=$HOME'/Library/Developer/Xcode/Templates/File Templates/Custom'
 # このfileの置かれているpathを取得
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
