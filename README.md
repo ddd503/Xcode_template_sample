@@ -1,0 +1,4 @@
+# Xcode_template_sample
+XcodeのFileTemplatesにカスタムのテンプレートを追加するサンプル
+
+`tooling`配下の`install-xcode-template.sh`を実行することで用意したテンプレートがXcodeに追加される
